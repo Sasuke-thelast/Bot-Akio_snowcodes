@@ -4,6 +4,11 @@ This is my projet to participate to the...
 In 2 weeks (Yeah isn´t a joke)  
 We have to create some discord bots with chrismas theme...  
 This is my intent to do this...
+
+# STATS
+[![⭐ GitHub](https://img.shields.io/github/license/Sasuke-thelast/Bot-Akio_snowcodes)](https://github.com/Sasuke-thelast/Bot-Akio_snowcodes/blob/main/LICENSE)
+[![XD](https://img.shields.io/github/last-commit/Sasuke-thelast/Bot-Akio_snowcodes)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 # Bitacora
 Esto estara en español por mientras pq los demas concursantes son de habla inglesa pa que se jodan al leerla jijija xd  
    
