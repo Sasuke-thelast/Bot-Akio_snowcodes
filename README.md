@@ -41,10 +41,10 @@ tampoco es algo que se pueda cancelar ya que todo esta listo..
 Eso si estare aprendiendo markdown y mas cositas para hacer mas bonito esta bitacora xd  
 ADIOSSSS *Se va a jugar valorant* [05/12/22 20:08 pm]
 
-# Dia 4,5,6
+# Dia 3,4,5
 Descanse de codear un poco y asi pude respirar por fin de el vsc xddd
 
-# Dia 7
+# Dia 6
 
 XD   
    
