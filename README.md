@@ -57,4 +57,4 @@ Creo que volvere a js si es que sigo asi de mal
 ## **DIAS HASTA EL FINAL DE LA BOT JAM (9)**
 
 
-# Mas actualizaciones [09/12/22 20:00 pm] [Hora colombiana]
+# Mas actualizaciones [10/12/22 20:00 pm] [Hora colombiana]
