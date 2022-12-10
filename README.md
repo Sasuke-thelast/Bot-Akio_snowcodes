@@ -8,7 +8,7 @@ This is my intent to do this...
 # STATS
 [![⭐ GitHub](https://img.shields.io/github/license/Sasuke-thelast/Bot-Akio_snowcodes)](https://github.com/Sasuke-thelast/Bot-Akio_snowcodes/blob/main/LICENSE)
 [![XD](https://img.shields.io/github/last-commit/Sasuke-thelast/Bot-Akio_snowcodes)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+[![GitHub all releases](https://img.shields.io/github/downloads/Sasuke-thelast/Bot-Akio_snowcodes/total?label=Downloads%2FDescargas)](https://github.com/Sasuke-thelast/Bot-Akio_snowcodes/releases)
 # Bitacora
 Esto estara en español por mientras pq los demas concursantes son de habla inglesa pa que se jodan al leerla jijija xd  
    
@@ -33,13 +33,28 @@ Crear Handlers
 Orden de carpetas  
 LA PUTA SINTAXIS DE JAVASCRIPT  
 La sintxis de javascript  
-### **ESTADO ACTUAL**
+### **ESTADO**
 He pensado y trabajado sin frutos y pienso sin saber que hare...  
 Desde el [06/12/22] hasta el [08/12/22] no habran mas actualizaciones pq saldre con mi familia y no puedo llevarme la pc...  
 tampoco es algo que se pueda cancelar ya que todo esta listo..  
 ### **EXTRA**
 Eso si estare aprendiendo markdown y mas cositas para hacer mas bonito esta bitacora xd  
 ADIOSSSS *Se va a jugar valorant* [05/12/22 20:08 pm]
+
+# Dia 4,5,6
+Descanse de codear un poco y asi pude respirar por fin de el vsc xddd
+
+# Dia 7
+
+XD   
+   
+NO HE HECHO NADA  
+
+Me he limitado a hacer simples funciones y otras cosas añadi cogs y un status de dias que faltan para navidad...  
+SI NADA MAS!  
+Estoy craente de ideas sinceramente y tampoco puedo pensar mucho porquee.... cositas xd.  
+Creo que volvere a js si es que sigo asi de mal  
+## **DIAS HASTA EL FINAL DE LA BOT JAM (9)**
 
 
 # Mas actualizaciones [09/12/22 20:00 pm] [Hora colombiana]
